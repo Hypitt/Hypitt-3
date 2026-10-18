@@ -1,0 +1,8 @@
+{
+  "name": "Hypitt — Live Competitions & Creator Network",
+  "description": "Hypitt: Live competitions, interactive judging, creator showcases, private messaging, and social community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
